@@ -84,4 +84,6 @@ Code has been organised Q1-visualization,Q2- forward propagation,Q3- with all wa
 ## Note: 
 Use the train.py for running the code in command prompt which i have done without the wandb parameters.
 
+Githublink: [link](https://github.com/HARIPRASADHP258/DL_DA6401_ASSIGNMENT_1)
+
 wandb report: [link](https://wandb.ai/ma23m007-iit-madras/fashion_emnist_gross_entropy/reports/MA23M007_DA6401-Assignment-1--VmlldzoxMTgxNzEwOQ)
