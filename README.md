@@ -79,6 +79,8 @@ sweep_config:
 - **Confusion Matrix**: Visualizes misclassifications.
 - **Training Progress**: Loss and accuracy curves available in WandB.
 
+Code has been organised Q1-visualization,Q2- forward propagation,Q3- with all wandb sweeps,Q7-confusion matrix 
+
 ## Note: 
 Use the train.py for running the code in command prompt which i have done without the wandb parameters.
 
